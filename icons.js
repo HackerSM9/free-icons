@@ -8,7 +8,7 @@ window.FontAwesomeKitConfig = {
     id: 86942489,
     license: "free",
     method: "css",
-    minify: { enabled: true },
+    minify: { enabled: false },
     token: "f08c47c4d1",
     v4FontFaceShim: { enabled: true },
     v4shim: { enabled: true },
